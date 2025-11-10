@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Flask Sample Application"
+    return "Welcome To GitHub DashBoard"
 
 
 if __name__ == "__main__":
